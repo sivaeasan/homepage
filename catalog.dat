@@ -1,0 +1,16 @@
+P_ID|3|0|TRUE|3|
+P_Code|1|30|TRUE|2|
+P_Name|1|255|TRUE|2|
+P_Category|1|30|TRUE|13|
+P_CreatingDate|9|0|TRUE|11|
+P_ImageFull|1|150|TRUE|10|
+P_Changed|5|0|TRUE|4|
+P_GROUPBY|1|60|FALSE|13|
+P_WEBPUBLISH|5|0|FALSE|4|
+price|7|0|FALSE|110|
+description_html|15|0|FALSE|15|
+short description|16|50|FALSE|1|
+vat|6|0|FALSE|110|
+p_url|1|255|FALSE|105|
+p_date|9|0|FALSE|11|
+download|1|150|FALSE|124|
